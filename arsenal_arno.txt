@@ -1,0 +1,95 @@
+Arsenal - Arnö Hockey  2 - 4 (0-2, 0-1, 2-1)
+
+Matchdatum: 2024-01-11 19:00
+Match-id: 501874
+Arena:Någonting
+Matchtyp: Seriematch
+Första perioden:
+(00:22) SOG Miroslav Trimmel (Arn)
+(01:48) SOG Ettore Principe (Arn)
+(01:58) 0-1 Kaleva Pursiainen (Jannik Priske, Stacey Francisco)
+(02:28) UTV (hooking) Slavoj Cechmanek (Ars)
+(04:08) 0-2 Ettore Principe (PP) (Henning Morup-Jensen, Lee Frith)
+(04:55) SOG Patrice Sarault (Arn)
+(05:35) UTV (roughing) Henning Morup-Jensen (Arn)
+(07:58) UTV (holding) Gunnar Omdal (Ars)
+(09:59) UTV (hooking) Felix Chorske (Arn)
+(12:03) UTV (interference) Jarle Bentsen (Arn)
+(13:16) SOG Roland Norgren (Ars)
+(13:40) SOG Alexander Mensink (Ars)
+(14:36) SOG Kari Hartikainen (Ars)
+(15:55) SOG Evgeny Gerasimovskiy (Arn)
+(16:02) SOG Gunnar Omdal (Ars)
+(16:24) SOG Oleg Korsunov (Ars)
+(16:52) UTV (roughing) Joakim Tilling (Ars)
+(17:02) SOG Torbjørn Paust (Ars)
+(17:12) SOG Lee Frith (Arn)
+(17:47) SOG Alex Tropper (Arn)
+(17:56) SOG Ettore Principe (Arn)
+(18:19) SOG Evgeny Gerasimovskiy (Arn)
+(18:53) SOG Alexander Mensink (Ars)
+(19:19) SOG Torbjørn Paust (Ars)
+Andra perioden:
+(21:59) SOG Igor Voronin (Ars)
+(23:37) SOG Slavoj Cechmanek (Ars)
+(26:14) SOG Kaleva Pursiainen (Arn)
+(28:29) SOG Jannik Priske (Arn)
+(29:10) SOG Felix Chorske (Arn)
+(29:26) SOG Olaf Flinck (Ars)
+(29:45) SOG Jarrold Ashen (Arn)
+(30:31) SOG Jarle Bentsen (Arn)
+(31:02) SOG Ettore Principe (Arn)
+(31:30) SOG Malte Emanuelsson (Ars)
+(33:03) UTV (interference) Igor Voronin (Ars)
+(33:20) SOG Slavoj Cechmanek (Ars)
+(34:17) SOG Torbjørn Paust (Ars)
+(34:57) 0-3 Alex Tropper (PP) (Ettore Principe)
+(35:35) UTV (holding) Henning Morup-Jensen (Arn)
+(36:13) SOG Jaromir Rek (Ars)
+(36:43) SOG Jarle Bentsen (Arn)
+(37:25) SOG Eric Brewer (Ars)
+(37:50) UTV (delaying the game) Evgeny Gerasimovskiy (Arn)
+Tredje perioden:
+(40:48) SOG Henning Morup-Jensen (Arn)
+(41:38) UTV (tripping) Slavoj Cechmanek (Ars)
+(41:52) SOG Ettore Principe (Arn)
+(43:14) SOG Alex Tropper (Arn)
+(43:58) SOG Joakim Tilling (Ars)
+(44:20) SOG Jarrold Ashen (Arn)
+(45:05) SOG Lee Frith (Arn)
+(45:16) SOG Miroslav Trimmel (Arn)
+(45:24) 1-3 Roland Norgren (Jaromir Rek, Eric Brewer)
+(45:29) SOG Evgeny Gerasimovskiy (Arn)
+(46:01) SOG Gunnar Omdal (Ars)
+(46:27) UTV (slashing) Gunnar Omdal (Ars)
+(47:47) 1-4 Ettore Principe (PP) (Henning Morup-Jensen)
+(48:42) SOG Alexander Mensink (Ars)
+(49:27) SOG Torbjørn Paust (Ars)
+(49:52) UTV (roughing) Felix Chorske (Arn)
+(52:08) SOG Torbjørn Paust (Ars)
+(54:05) SOG Jarrold Ashen (Arn)
+(54:15) SOG Eric Brewer (Ars)
+(55:03) SOG Oleg Korsunov (Ars)
+(55:22) 2-4 Gunnar Omdal (Malte Emanuelsson)
+(55:37) SOG Jarle Bentsen (Arn)
+(59:46) SOG Kari Hartikainen (Ars)
+
+Utvisningar: Arsenal: 6x2 min, Arnö Hockey: 6x2 min
+
+Skott:  26-28 (8-10, 8-8, 10-10)
+
+Arsenal
+Lagbetyg: 1 822
+Femma 1: Normal
+Femma 2: Normal
+Femma 3: Normal
+Istid: 34-34-32 (1-2-3)
+Ta ut målvakten: Nej
+
+Arnö Hockey
+Lagbetyg: 1 826
+Femma 1: Mycket defensiv (103)
+Femma 2: Mycket offensiv (101)
+Femma 3: Mycket offensiv (101)
+Istid: 40-40-20 (1-2-3)
+Ta ut målvakten: Ja
