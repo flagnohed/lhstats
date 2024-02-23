@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <map>
-
+#include <clocale>
 
 #include "game.h"
 #include "team.h"
@@ -22,22 +22,19 @@ struct league {
 };
 
 
-
 int main(int argc, char *argv[]) {
 
+    std::setlocale(LC_ALL, "sv_SE.UTF-8");
     /* Initialize and fill LHL. */
     struct league lhl;
     
-
-    // char *l = setlocale(LC_ALL, NULL);
-    // std::cout << "Current locale: " << l << std::endl;
-
-    /* Parse game. */
-    struct game *g = parse_game("arsenal_arno.txt");
-    struct team *t = parse_team("teams/arno.txt");
-    // std::cout << g->events.at(63)->ass1 << std::endl;
+    struct team *arno = parse_team("teams/arno.txt");
+    struct team *arsenal = parse_team("teams/arsenal.txt");
+    struct game *g = parse_game("games/arsenal_arno.txt");
     
-    print_team(t);
+    print_game_stats(g);
+    print_team(arno);
+    print_team(arsenal);
 
     return 0;
 }
